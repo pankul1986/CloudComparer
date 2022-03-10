@@ -360,8 +360,8 @@ services:
             ref:
             icon: none.png
       - alibaba:
-          - name:
-            ref:
+          - name: Alicloud Elastic Container Instance
+            ref: https://www.alibabacloud.com/product/elastic-container-instance
             icon: none.png
       - huawei:
           - name:
